@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MERIT](https://greenproject-merit.vercel.app)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 📫 How to reach me **skmsskss@gmail.com**
 
