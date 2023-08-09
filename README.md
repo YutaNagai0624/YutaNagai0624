@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yutanagai0624&label=Profile%20views&color=0e75b6&style=flat" alt="yutanagai0624" /> </p>
 
-- 🔭 I’m currently working on [an AI platform]
+- 🔭 I’m currently working on **Azure**
 
 - 🌱 I’m currently learning **ThreeJS**
 
