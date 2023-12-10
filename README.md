@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yutanagai0624&label=Profile%20views&color=0e75b6&style=flat" alt="yutanagai0624" /> </p>
 
-- 🔭 I’m currently working on **Azure**
+- 🔭 I’m currently working on **LMS**
 
 - 🌱 I’m currently learning **ThreeJS**
 
 - 📫 How to reach me **skmsskss@gmail.com**
-
-- ⚡ Fun fact **I'm a freelance photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
